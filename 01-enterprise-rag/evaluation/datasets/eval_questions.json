@@ -1,0 +1,7 @@
+[
+  {"question": "What is the remote work policy?", "ground_truth": "Employees can work remotely up to 3 days per week."},
+  {"question": "How many vacation days per year?", "ground_truth": "25 vacation days per year."},
+  {"question": "How to request leave?", "ground_truth": "Submit through HR portal 2 weeks in advance."},
+  {"question": "Data security guidelines?", "ground_truth": "All data encrypted at rest and in transit."},
+  {"question": "Performance review process?", "ground_truth": "Quarterly reviews with annual review in December."}
+]

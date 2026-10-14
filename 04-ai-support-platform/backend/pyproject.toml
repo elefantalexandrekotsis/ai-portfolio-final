@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ai-support-platform"
+version = "1.0.0"
+description = "AI-powered customer support"
+authors = ["Your Name"]
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.2"
+langchain-openai = "^0.1"
+fastapi = "^0.111"
+uvicorn = "^0.30"
+pydantic-settings = "^2.3"
+sqlalchemy = "^2.0"
+asyncpg = "^0.29"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
