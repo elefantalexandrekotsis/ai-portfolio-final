@@ -27,6 +27,5 @@ ruff = "^0.5"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-TOML
 [tool.vercel]
 entrypoint = "src.api.main:app"
